@@ -1,4 +1,4 @@
-# Coloriage d'un graphe et Résolution du Sudoku
+# Coloriage d'un graphe / Résolution du Sudoku
 Ce projet vise à explorer le problème du coloriage d'un graphe non orienté, ainsi qu'à développer une application capable de résoudre des grilles de Sudoku en utilisant des algorithmes de coloriage de graphes. Le coloriage d'un graphe consiste à attribuer une couleur à chaque sommet de manière à ce que deux sommets adjacents n'aient pas la même couleur. Le graphe est non réflexif, c'est-à-dire qu'il n'y a pas d'arête d'un sommet vers lui-même.
 ## Objectifs du Projet
 1. Implémentation de trois algorithmes de coloriage de graphes en Python : 
